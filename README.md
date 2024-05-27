@@ -4,6 +4,8 @@
 [`.vscode_with_vim_settings/extensions.json`](./vscode_with_vim_settings/extensions.txt)<br>
 [`.vscode_with_vim_settings/keybindings.json`](./vscode_with_vim_settings/keybindings.json)
 
+Please ensure that you replace the placeholder files (^) with the corresponding files for .vscode
+
 <br>
 <br>
 
